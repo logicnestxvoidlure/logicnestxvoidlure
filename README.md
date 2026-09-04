@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://logicnesttttt.vercel.app/">
+  <a href="https://logicnestttttt.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/logicnestxvoidlure">
@@ -196,13 +196,13 @@ If you find something useful in my repositories, feel free to fork it, improve i
 
 ### Explore my work
 
-<a href="https://logicnesttttt.vercel.app/">
+<a href="https://logicnestttttt.vercel.app/">
   <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
-**Portfolio:** `https://logicnesttttt.vercel.app/`
+**Portfolio:** `https://logicnestttttt.vercel.app/`
 
 ---
 
