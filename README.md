@@ -145,8 +145,12 @@ I also work on custom Roblox environments and 3D assets.
 ## GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+  <a href="https://github.com/logicnestxvoidlure">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" />
+  </a>
+  <a href="https://github.com/logicnestxvoidlure">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -154,17 +158,19 @@ I also work on custom Roblox environments and 3D assets.
 ## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=logicnestxvoidlure&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000"/>
+  <a href="https://github.com/logicnestxvoidlure">
+    <img src="https://streak-stats.demolab.com/?user=logicnestxvoidlure&hide_border=true&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
 ## Contribution Graph
 
-## Contribution Graph
-
 <p align="center">
-  <img src="https://ghchart.rshah.org/logicnestxvoidlure" alt="GitHub Contribution Chart" />
+  <a href="https://github.com/logicnestxvoidlure">
+    <img src="https://ghchart.rshah.org/logicnestxvoidlure" alt="GitHub Contribution Chart" />
+  </a>
 </p>
 ---
 
