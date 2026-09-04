@@ -144,9 +144,9 @@ I also work on custom Roblox environments and 3D assets.
 ## GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/logicnestxvoidlure">
-    <img src="https://github-profile-trophy.vercel.app/?username=logicnestxvoidlure&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Stars-0-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-0-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-0-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 ---
 
