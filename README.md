@@ -145,10 +145,7 @@ I also work on custom Roblox environments and 3D assets.
 
 <p align="center">
   <a href="https://github.com/logicnestxvoidlure">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&hide_border=true&theme=dark" />
-  </a>
-  <a href="https://github.com/logicnestxvoidlure">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&theme=dark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=logicnestxvoidlure&theme=darkhub&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
   </a>
 </p>
 ---
