@@ -143,8 +143,8 @@ I also work on custom Roblox environments and 3D assets.
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&theme=default" width="49%" />
 </p>
 
 ---
@@ -160,9 +160,8 @@ I also work on custom Roblox environments and 3D assets.
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicnestxvoidlure&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicnestxvoidlure&theme=minimal&hide_border=true&area=true" width="100%" />
 </p>
-
 ---
 
 ## Currently Building
