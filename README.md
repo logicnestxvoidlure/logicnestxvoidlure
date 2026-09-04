@@ -142,11 +142,7 @@ I also work on custom Roblox environments and 3D assets.
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide=stars,issues,prs,contribs" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" width="49%" />
-</p>
-
+<p align="center"> <a href="https://github.com/logicnestxvoidlure"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&cache_seconds=1800" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&cache_seconds=1800" /> </a> </p>
 ---
 
 ## GitHub Streak
