@@ -143,8 +143,8 @@ I also work on custom Roblox environments and 3D assets.
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&theme=default" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=logicnestxvoidlure&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicnestxvoidlure&layout=compact&hide_border=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" width="49%" />
 </p>
 
 ---
@@ -159,8 +159,10 @@ I also work on custom Roblox environments and 3D assets.
 
 ## Contribution Graph
 
+## Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logicnestxvoidlure&theme=minimal&hide_border=true&area=true" width="100%" />
+  <img src="https://ghchart.rshah.org/logicnestxvoidlure" alt="GitHub Contribution Chart" />
 </p>
 ---
 
